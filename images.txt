@@ -16,5 +16,3 @@ metrics-server:v0.6.1
 dashboard-api:1.11.1
 dashboard-auth:1.2.4
 gcr.io/google-containers/kubeasz:3.6.4
-kubeasz:3.6.5
-kubeasz:3.6.6
