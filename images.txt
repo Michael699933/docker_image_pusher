@@ -1,15 +1,2 @@
-docker pull registry.cn-beijing.aliyuncs.com/dotbalo/dashboard:v2.7.0
-docker pull registry.cn-beijing.aliyuncs.com/dotbalo/metrics-scraper:v1.0.8
-docker pull registry.cn-beijing.aliyuncs.com/dotbalo/metrics-server:v0.6.3
-docker pull registry.cn-beijing.aliyuncs.com/dotbalo/coredns:1.9.4
-docker pull registry.cn-beijing.aliyuncs.com/dotbalo/cni:v3.25.1
-docker pull registry.cn-beijing.aliyuncs.com/dotbalo/node:v3.25.1
-docker pull registry.cn-beijing.aliyuncs.com/dotbalo/kube-controllers:v3.25.1
-docker pull registry.cn-beijing.aliyuncs.com/dotbalo/typha:v3.25.1
-docker pull registry.aliyuncs.com/google_containers/kube-apiserver:v1.27.6
-docker pull registry.aliyuncs.com/google_containers/kube-proxy:v1.27.6
-docker pull registry.aliyuncs.com/google_containers/kube-controller-manager:v1.27.6
-docker pull registry.aliyuncs.com/google_containers/kube-scheduler:v1.27.6
-docker pull registry.aliyuncs.com/google_containers/coredns:v1.11.1
-docker pull registry.aliyuncs.com/google_containers/etcd:3.5.9-0
-docker pull registry.aliyuncs.com/google_containers/pause:3.9
+docker pull registry.cn-beijing.aliyuncs.com/dotbalo/krm-frontend:latest
+docker pull registry.cn-beijing.aliyuncs.com/dotbalo/krm-backend:latest
